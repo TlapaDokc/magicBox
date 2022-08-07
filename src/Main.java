@@ -16,7 +16,5 @@ public class Main {
         intBox.add(4);
         //intBox.add(5);
         System.out.println(intBox.pick());
-
-
     }
 }
